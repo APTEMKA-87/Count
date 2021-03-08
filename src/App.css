@@ -1,0 +1,19 @@
+.App {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: dimgrey;
+}
+
+.Count {
+  width: 275px;
+  height: 140px;
+  background-color: dimgrey;
+  border-radius: 20px;
+  padding: 10px;
+  border: 3px solid deepskyblue;
+}
+
